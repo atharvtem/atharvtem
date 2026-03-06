@@ -85,6 +85,7 @@
 </p>
 
 ---
+![](https://komarev.com/ghpvc/?username=atharvtem)
 
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="Left">
